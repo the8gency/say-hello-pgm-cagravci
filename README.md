@@ -1,29 +1,3 @@
-
-A personal CV consists of: 
-
-    Full name
-    Professional profile picture
-    Your current position
-    Your current home location
-    About / Summary
-    Contact
-        Email
-        Personal website
-    Social
-        LinkedIn
-        GitHub
-        Codepen
-        Stack Overflow
-        YouTube
-        Medium
-        …
-    Skills
-    Experience
-    Education
-    (Languages)
-    (References)
-    (Interests)
-
 # Curriculum Vitae | Cagri Avci
 
 ---
@@ -31,7 +5,7 @@ A personal CV consists of:
 ## Practical information
 
 name: **Cagri Cem Avci** 
-![profile-picture](assets/images/profile-picture.jpg | width=250) 
+![profile-picture](assets/images/profile-picture.jpg) 
 current position: **Student** 
 current home location: **Ghent, Belgium** 
 Email: **<cagravci@student.arteveldehs.be>** 
@@ -40,16 +14,33 @@ Social: [Github](https://github.com/pgm-cagravci)
 ---
 
 ## About
-> Hello, I am Cagri (28M). Currently studying programming at Arteveldehs
+> Hello, I am Cagri. I am 28 years old and study programming at Artevelede University College. I enjoy hiking and listening to music. 
 
 ## Skill
+- NodeJS
+- ExpressJS
+- Javascript
+- SQL
+- HTML & CSS
+- SASS
+- Static pages (Eleventy, Nunjucks)
 
 ## Experience
+*2020 - 2021* Student Programming, at Artevelde University College
+*2018 - 2020* Data Analyst, at Colruyt Group Academy
+*2014 - 2018* Bachelors Business Management - Marketing, at Artevelde University College
 
 ## Education
+- Bachelors Business Management
 
 ## Languages
+- Dutch ++++
+- English ++++
+- Turkish ++++
+- French ++
 
 ## References
+- [Philippe De Pauw - Waterschoot](https://be.linkedin.com/in/philippe-de-pauw)
 
 ## Interests
+My interest are working on projects and solving business problems.
