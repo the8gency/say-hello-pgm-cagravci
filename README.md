@@ -29,12 +29,13 @@ A personal CV consists of:
 ---
 
 ## Practical information
-> name: **Cagri Cem Avci**
-> ![profile-picture](assets/images/profile-picture.jpg)
-> current position: **Student**
-> current home location: **Ghent, Belgium**
-> Email: **<cagravci@student.arteveldehs.be>**
-> Social: [Github](https://github.com/pgm-cagravci)
+
+name: **Cagri Cem Avci**
+![profile-picture](assets/images/profile-picture.jpg)
+current position: **Student**
+current home location: **Ghent, Belgium**
+Email: **<cagravci@student.arteveldehs.be>**
+Social: [Github](https://github.com/pgm-cagravci)
 
 ---
 
